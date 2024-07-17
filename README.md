@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>
+  Hello, world!
+  <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
+</h1>
 
-<!--
-**Nerotheum/nerotheum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "username": "Nerotheum",
+  "loves": ["Coding", "Fragrances"],
+  "age": 22
+}
+```
 
-Here are some ideas to get you started:
+I use in my work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C#** (WinForms, ASP.NET, Entity Framework)
+- **Java** (Vaadin and Spring Boot)
+- **PHP** (Laravel)
+- **Bootstrap** 
+- **MySQL**
+- **Docker**
+- **Just**
+
+Other knowledge: (not so in-depth, but that was once part of some job/hobby):
+
+- **Figma**
+- **Javascript** (JQuery, SocketIO)
