@@ -6,7 +6,6 @@
 ```json
 {
   "username": "Nerotheum",
-  "loves": ["Coding", "Fragrances"],
   "age": 22
 }
 ```
